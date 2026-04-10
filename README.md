@@ -201,13 +201,6 @@ spring.datasource.password=${DB_PASSWORD}
 
 ---
 
-## Running the Application
-
-1. Clone the repository
-
----
-
-
 
 ## API Documentation
 
