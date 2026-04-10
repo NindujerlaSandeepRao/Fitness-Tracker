@@ -207,27 +207,7 @@ spring.datasource.password=${DB_PASSWORD}
 
 ---
 
-## Running the Application
 
-1. Clone the repository
-
-git clone <repository-url>
-
-
-2. Set environment variables
-   
-DB_URL=jdbc:postgresql://<host>:5432/<database>?sslmode=require
-
-DB_USER=<username>
-
-DB_PASSWORD=<password>
-
-3. Run the application
-
-./mvnw spring-boot:run
-
-
----
 
 ## API Documentation
 
